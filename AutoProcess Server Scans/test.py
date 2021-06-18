@@ -1,0 +1,2 @@
+def timepass():
+    print("hey")

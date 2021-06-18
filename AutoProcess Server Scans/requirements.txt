@@ -1,0 +1,6 @@
+openpyxl
+pandas
+pyad
+pywin32
+xlsxwriter
+numpy
